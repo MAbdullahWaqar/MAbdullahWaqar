@@ -8,9 +8,9 @@
 
 <p>
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/github/followers/vanix056?style=for-the-badge&logo=github&color=blue&label=Followers">
-  <img src="https://img.shields.io/github/last-commit/vanix056/vanix056?style=for-the-badge&logo=github&color=brightgreen&label=Last%20Commit">
-  <img src="https://img.shields.io/github/issues/vanix056/vanix056?style=for-the-badge&logo=github&color=red&label=Issues">
+  <img src="https://img.shields.io/github/followers/MAbdullahWaqar?style=for-the-badge&logo=github&color=blue&label=Followers">
+  <img src="https://img.shields.io/github/last-commit/MAbdullahWaqar/MAbdullahWaqar?style=for-the-badge&logo=github&color=brightgreen&label=Last%20Commit">
+  <img src="https://img.shields.io/github/issues/MAbdullahWaqar/MAbdullahWaqar?style=for-the-badge&logo=github&color=red&label=Issues">
 </p>
 
 I build intelligent systems that solve real-world problems — from computer vision pipelines and NLP applications to no-code ML platforms and data-driven predictive tools. I'm passionate about bridging the gap between research and production-ready AI.
@@ -71,42 +71,42 @@ I build intelligent systems that solve real-world problems — from computer vis
 
 ## Featured Projects
 
-### [Train-Your-Model](https://github.com/vanix056/Train-Your-Model)
+### [Train-Your-Model](https://github.com/MAbdullahWaqar/Train-Your-Model)
 A no-code AutoML platform that lets users upload datasets, configure hyperparameters via a UI, and train machine learning models — no code required. Designed to democratise ML for non-technical users.  
 **Tech Stack:** Python, AutoML, FastAPI  
 **Highlight:** End-to-end automated training pipeline with configurable model selection
 
 ---
 
-### [Log Classification System](https://github.com/vanix056/Log-classification-system)
+### [Log Classification System](https://github.com/MAbdullahWaqar/Log-classification-system)
 Intelligent log analysis system that classifies system logs using a hybrid approach combining DeepSeek R1 (LLM), BERT embeddings, and regex-based pattern matching.  
 **Tech Stack:** Python, BERT, DeepSeek R1, Regex  
 **Highlight:** Leverages state-of-the-art LLMs alongside classical NLP for robust, multi-strategy classification
 
 ---
 
-### [Heatwave Risk Prediction](https://github.com/vanix056/Heatwave-Risk-Prediction-for-Major-Pakistani-Cities)
+### [Heatwave Risk Prediction](https://github.com/MAbdullahWaqar/Heatwave-Risk-Prediction-for-Major-Pakistani-Cities)
 Data-driven analysis and forecasting of heatwave patterns across major Pakistani cities using historical climate data. Provides actionable risk predictions for future periods.  
 **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib  
 **Highlight:** Time-series analysis combined with ML-based future prediction for real-world climate impact
 
 ---
 
-### [Object Detection (COCO)](https://github.com/vanix056/Object-Detection-COCO)
+### [Object Detection (COCO)](https://github.com/MAbdullahWaqar/Object-Detection-COCO)
 Real-time multi-object detection using MobileNet SSD trained on the COCO dataset. Optimised for speed and accuracy across diverse object categories in live video feeds.  
 **Tech Stack:** Python, TensorFlow, MobileNet SSD, OpenCV  
 **Highlight:** Lightweight architecture suitable for deployment on edge devices
 
 ---
 
-### [NUST Admissions Guide Chatbot](https://github.com/vanix056/Nust-admissions-guide)
+### [NUST Admissions Guide Chatbot](https://github.com/MAbdullahWaqar/Nust-admissions-guide)
 RAG-based LLM chatbot built for a university chatbot competition, answering NUST admissions queries by retrieving answers from institutional knowledge documents.  
 **Tech Stack:** Python, LLM, RAG, Vector Embeddings  
 **Highlight:** End-to-end retrieval-augmented generation pipeline on a real-world institutional domain
 
 ---
 
-### [VQE — Quantum Computing Research](https://github.com/vanix056/VQE)
+### [VQE — Quantum Computing Research](https://github.com/MAbdullahWaqar/VQE)
 Research implementation of the Variational Quantum Eigensolver (VQE) to calculate binding energies and ground state energies of molecular systems, developed for the CETQAP research programme.  
 **Tech Stack:** Python, Qiskit, VQE, Quantum Chemistry  
 **Highlight:** Applied quantum computing research bridging physics, mathematics, and computational science
@@ -116,12 +116,12 @@ Research implementation of the Variational Quantum Eigensolver (VQE) to calculat
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanix056&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanix056&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MAbdullahWaqar&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAbdullahWaqar&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vanix056&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=MAbdullahWaqar&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -150,7 +150,7 @@ Research implementation of the Variational Quantum Eigensolver (VQE) to calculat
 | Platform | Link |
 |----------|------|
 | GitHub | [@MAbdullahWaqar](https://github.com/MAbdullahWaqar) |
-| LinkedIn | [linkedin.com/in/vanix056](https://linkedin.com/in/abdullahwaqar) |
+| LinkedIn | [linkedin.com/in/MAbdullahWaqar](https://linkedin.com/in/abdullahwaqar) |
 | Email | abdullahwaqar121105@gmail.com |
 
 ---
