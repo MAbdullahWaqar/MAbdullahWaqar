@@ -149,9 +149,9 @@ Research implementation of the Variational Quantum Eigensolver (VQE) to calculat
 
 | Platform | Link |
 |----------|------|
-| GitHub | [@vanix056](https://github.com/vanix056) |
+| GitHub | [@MAbdullahWaqar](https://github.com/MAbdullahWaqar) |
 | LinkedIn | [linkedin.com/in/vanix056](https://linkedin.com/in/vanix056) |
-| Email | vanix056@gmail.com |
+| Email | abdullahwaqar121105@gmail.com |
 
 ---
 
