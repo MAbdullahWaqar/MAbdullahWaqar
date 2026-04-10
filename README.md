@@ -26,6 +26,10 @@ I build intelligent systems that solve real-world problems — from computer vis
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
+![Gensim](https://img.shields.io/badge/Gensim-4B8BBE?style=for-the-badge&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![CNTK](https://img.shields.io/badge/CNTK-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 - Deep Learning: CNN, RNN, Transformers (BERT, DeepSeek R1)
 - Computer Vision: Object Detection, Emotion Recognition, Gesture Control
